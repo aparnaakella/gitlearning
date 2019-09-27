@@ -1,2 +1,4 @@
 This file is being updated in SIT1_DEFECT1 branch
 Round 1--Updating this file in SIT1_DEfect1 branch
+Rowund 2 - doing manual merge in same files in SIT1_DEFECT1and DEVELOPMENt branch. 
+Learning - Same file cannot be updated and merged in 2 different branches
