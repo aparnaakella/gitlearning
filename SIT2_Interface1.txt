@@ -3,3 +3,5 @@ Observation- Changes done to this file are getting commited automatically to bot
 Yes, the observation is ture
 Updating this line again to retest the observation
 Yes, the observation is true, no add, no commit in development, but the changes are reflected in sit1_defect1 with a checkout comand
+Another observation, if the changes are commited in development branch then those are not reflected in SIT1_DEFECT1 branch upon chckout
+
