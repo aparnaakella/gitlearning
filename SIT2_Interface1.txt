@@ -1,1 +1,3 @@
 This was empty file being updated in development branch.
+Observation- Changes done to this file are getting commited automatically to both development and sit1_defect1 branch?
+Yes, the observation is ture
