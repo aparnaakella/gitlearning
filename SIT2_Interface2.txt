@@ -1,1 +1,6 @@
 This file is being updated in SIT1_DEFECT1 branch
+
+This file is now updated in development branch after fresh loginto GIT. Will this line get auotmatically get updated with SIT1_DEFECT1 branch?
+
+Yes the changes got updated in SIT1_DEFECT1 branch without need of rebase command
+
