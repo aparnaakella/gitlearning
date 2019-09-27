@@ -1,0 +1,1 @@
+Parallel development in dev brach while defect is being worked in SIT1_DEFECT1 branch
